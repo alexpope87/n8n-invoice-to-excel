@@ -115,10 +115,10 @@
         "operation": "append",
         "documentId": {
           "__rl": true,
-          "value": "1qrHmrXfTxH7Old4wO8Jrp6itKv4XUTvVcoM6rIB8B2w",
+          "value": "YOUR_GOOGLE_SHEET_ID",
           "mode": "list",
           "cachedResultName": "Invoice Register",
-          "cachedResultUrl": "YOUR_GOOGLE_SHEET_ID"
+          "cachedResultUrl": "YOUR_GOOGLE_SHEET_URL"
         },
         "sheetName": {
           "__rl": true,
