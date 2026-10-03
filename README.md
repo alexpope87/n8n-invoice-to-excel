@@ -1,2 +1,1 @@
-# n8n-price-alert
-Simple price monitoring automation built with n8n.
+Simple n8n automation that extracts invoice data from PDF files and stores it in Excel.
