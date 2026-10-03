@@ -29,7 +29,7 @@ The goal of this project was to automate the process using a lightweight n8n wor
 
 ## Workflow
 
-![n8n Invoice Workflow](screenshots/workflow.png)
+![n8n Invoice Workflow](n8n%20invoice%20to%20excel.PNG)
 
 ## Tech Stack
 
